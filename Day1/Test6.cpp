@@ -57,23 +57,33 @@ int main()
     // cout << "value1 % value2 = " << value1 % value2 <<endl;
 
     int value1=12;
-    int value2=12;
-    int value3=12;
-    int value4=12;
-    int value5=12;
+    int value2=34;
+    int value3=42;
+    int value4=18;
+    int value5=30;
+    int value6=46;
+
 
     value1+=8;
     value2-=8;
     value3*=8;
     value4/=8;
     value5%=8;
-    
+    value6=value6 + value1 - value2 * value3 / value4; 
+
+
+
     cout << "ValueOut=" << value1 << endl;
+    
     cout << "ValueOut=" << value2 << endl;
+
     cout << "ValueOut=" << value3 << endl;
+    
     cout << "ValueOut=" << value4 << endl;
+
     cout << "ValueOut=" << value5 << endl;
 
+    cout << "ValueOut=" << value6 << endl;
 
 
 
