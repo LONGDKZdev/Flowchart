@@ -75,8 +75,8 @@
         <mxCell id="JdCYW7acxxyi1XhRC3Rl-0" value="&lt;b&gt;Chu vi và diện tích hình vuông&amp;nbsp;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;strokeWidth=5;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="490" y="70" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Je7Ae3qT8anYhMrm9lE--3" value="&lt;u&gt;&lt;b&gt;Step 1:&lt;/b&gt;&lt;/u&gt; Start .&lt;div&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Step 2:&lt;/b&gt;&amp;nbsp;gán giá trị Chu vi (C)= 0 và diện tích(S)= 0.&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Step 3:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;gán giá trị độ dài A&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Step 4:&lt;/u&gt; &lt;/b&gt;thiết lập công thức tính&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Step5:&lt;/u&gt; &lt;/b&gt;In kết quả chu vi và diện tích&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;align=left;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="210" width="150" height="190" as="geometry" />
+        <mxCell id="Je7Ae3qT8anYhMrm9lE--3" value="&lt;u&gt;&lt;b&gt;Step 1:&lt;/b&gt;&lt;/u&gt; Start .&lt;div&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Step 2:&lt;/b&gt;&amp;nbsp;gán giá trị Chu vi (C)= 0 và diện tích(S)= 0.&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Step 3:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;gán giá trị độ dài A&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Step 4:&lt;/u&gt; &lt;/b&gt;thiết lập công thức tính&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Step5:&lt;/u&gt; &lt;/b&gt;In kết quả chu vi và diện tích&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;u style=&quot;background-color: rgb(255, 255, 255); font-weight: bold;&quot;&gt;Step6:&lt;/u&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;End&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;align=left;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="210" width="150" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -166,14 +166,14 @@
         <mxCell id="XzOuNDTHLpV3hvF-IXS2-1" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;&lt;b&gt;Chu vi và diện tích hình chữ nhật&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="90" y="-30" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="wlZHa8cNmlP4Vn0qFe4S-1" value="&lt;u&gt;&lt;b&gt;Step 1:&lt;/b&gt;&lt;/u&gt; Start .&lt;div&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Step 2:&lt;/b&gt;&amp;nbsp;gán giá trị Chu vi (C)= 0 và diện tích(S)= 0.&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Step 3:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;gán giá trị độ dài A và độ dài B&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Step 4:&lt;/u&gt; &lt;/b&gt;thiết lập công thức tính&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Step5:&lt;/u&gt; &lt;/b&gt;In kết quả chu vi và diện tích&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;align=left;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="400" y="10" width="150" height="190" as="geometry" />
+        <mxCell id="wlZHa8cNmlP4Vn0qFe4S-1" value="&lt;u&gt;&lt;b&gt;Step 1:&lt;/b&gt;&lt;/u&gt; Start .&lt;div&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Step 2:&lt;/b&gt;&amp;nbsp;gán giá trị Chu vi (C)= 0 và diện tích(S)= 0.&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Step 3:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;gán giá trị độ dài A và độ dài B&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Step 4:&lt;/u&gt; &lt;/b&gt;thiết lập công thức tính&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Step5:&lt;/u&gt; &lt;/b&gt;In kết quả chu vi và diện tích&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;u style=&quot;font-weight: bold;&quot;&gt;Step6:&lt;/u&gt;&amp;nbsp;End&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;align=left;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-30" width="150" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="I1GUKeVkLxmEh_YR0p9K" name="Hình tròn">
-    <mxGraphModel dx="1059" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="777" dy="234" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -261,14 +261,14 @@
         <mxCell id="9NaL2qLa0Awoo15Skt6z-1" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;&lt;b&gt;Chu vi và diện tích hình tròn&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="480" y="120" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WBOPv-lXWAauVCivgwQj-1" value="&lt;u&gt;&lt;b&gt;Step 1:&lt;/b&gt;&lt;/u&gt; Start .&lt;div&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Step 2:&lt;/b&gt;&amp;nbsp;gán giá trị Chu vi (C)= 0 và diện tích(S)= 0.&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Step 3:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;gán giá trị bán kính, gán PI = 3,14&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Step 4:&lt;/u&gt; &lt;/b&gt;thiết lập công thức tính&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Step5:&lt;/u&gt; &lt;/b&gt;In kết quả chu vi và diện tích&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;align=left;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="420" y="250" width="150" height="190" as="geometry" />
+        <mxCell id="WBOPv-lXWAauVCivgwQj-1" value="&lt;u&gt;&lt;b&gt;Step 1:&lt;/b&gt;&lt;/u&gt; Start .&lt;div&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Step 2:&lt;/b&gt;&amp;nbsp;gán giá trị Chu vi (C)= 0 và diện tích(S)= 0.&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Step 3:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;gán giá trị bán kính, gán PI = 3,14&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Step 4:&lt;/u&gt; &lt;/b&gt;thiết lập công thức tính&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Step5:&lt;/u&gt; &lt;/b&gt;In kết quả chu vi và diện tích&lt;/div&gt;&lt;div&gt;&lt;u style=&quot;background-color: initial; font-weight: bold;&quot;&gt;Step6:&lt;/u&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;End&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;align=left;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="420" y="250" width="150" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="NKlAEnYSD00BTU1nRadv" name="Hình tam giác ">
-    <mxGraphModel dx="1059" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="854" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -361,8 +361,8 @@
         <mxCell id="ktrJP1tQ-Y1Cdybs_-cg-1" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Chu vi và diện tích hình tròn&lt;/b&gt;" style="triangle;whiteSpace=wrap;html=1;align=left;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="-60" y="360" width="230" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="xtizDXZ3kUgRZc51W31F-1" value="&lt;u&gt;&lt;b&gt;Step 1:&lt;/b&gt;&lt;/u&gt; Start .&lt;div&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Step 2:&lt;/b&gt;&amp;nbsp;gán giá trị Chu vi (C)= 0 và diện tích(S)= 0.&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Step 3:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;gán giá trị&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Step 4:&lt;/u&gt; &lt;/b&gt;thiết lập công thức tính&lt;b&gt;&amp;nbsp;, &lt;/b&gt;áp dụng công thức herong.&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Step5:&lt;/u&gt; &lt;/b&gt;In kết quả chu vi và diện tích&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;align=left;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="170" y="440" width="150" height="190" as="geometry" />
+        <mxCell id="xtizDXZ3kUgRZc51W31F-1" value="&lt;u&gt;&lt;b&gt;Step 1:&lt;/b&gt;&lt;/u&gt; Start .&lt;div&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Step 2:&lt;/b&gt;&amp;nbsp;gán giá trị Chu vi (C)= 0 và diện tích(S)= 0.&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Step 3:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;gán giá trị&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Step 4:&lt;/u&gt; &lt;/b&gt;thiết lập công thức tính&lt;b&gt;&amp;nbsp;, &lt;/b&gt;áp dụng công thức herong.&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Step5:&lt;/u&gt; &lt;/b&gt;In kết quả chu vi và diện tích&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;u style=&quot;font-weight: bold;&quot;&gt;Step6:&lt;/u&gt;&amp;nbsp;End&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;align=left;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="170" y="440" width="150" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
