@@ -97,7 +97,7 @@
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bBmzQvag57nKuMDm7wRF-60" value="Sơ đồ ERD" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="-280" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bBmzQvag57nKuMDm7wRF-62" value="Mỗi khách hàng mua ít nhất 1 hay&amp;nbsp; nhiều nhất nhiều&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="-635" y="169" width="150" height="66" as="geometry" />
