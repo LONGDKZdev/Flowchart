@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17" pages="5">
   <diagram name="Bài 1" id="qhs43N7DnuUcq9ViTWhs">
     <mxGraphModel dx="1945" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -880,13 +880,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="O2cNOcjsc8n_PMXDgFDO" name="Bài 4">
-    <mxGraphModel dx="1105" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1545" dy="1083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="W-aGCR4i-0r2VvymmX0O-1" value="-chuyến bay: thành phố, đơn giá vé, thời gian, loại máy bay, mã phi công, mã hành khách,&amp;nbsp;&lt;div&gt;-hành khách :&amp;nbsp;&lt;br&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="-270" width="220" height="170" as="geometry" />
+        <mxCell id="W-aGCR4i-0r2VvymmX0O-1" value="-chuyến bay: thành phố, đơn giá vé, thời gian, loại máy bay, mã phi công, mã hành khách,&amp;nbsp;&lt;div&gt;-hành khách :&amp;nbsp;&lt;br&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="-230" width="220" height="170" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KQRi_TVMU_A6isI2bSyi" name="Trang-5">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
