@@ -888,37 +888,37 @@
           <mxGeometry x="-10" y="-230" width="220" height="170" as="geometry" />
         </mxCell>
         <mxCell id="yzoamSTQ4k_LrmFpl3Te-1" value="FLIGHT" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="60" width="140" height="180" as="geometry" />
+          <mxGeometry x="-400" y="60" width="190" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="yzoamSTQ4k_LrmFpl3Te-2" value="Flight ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="yzoamSTQ4k_LrmFpl3Te-1">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        <mxCell id="yzoamSTQ4k_LrmFpl3Te-2" value="Flight ID(PK)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="yzoamSTQ4k_LrmFpl3Te-1">
+          <mxGeometry y="30" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yzoamSTQ4k_LrmFpl3Te-3" value="Departure city" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="yzoamSTQ4k_LrmFpl3Te-1">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
+          <mxGeometry y="60" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yzoamSTQ4k_LrmFpl3Te-4" value="City to" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="yzoamSTQ4k_LrmFpl3Te-1">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
+          <mxGeometry y="90" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yzoamSTQ4k_LrmFpl3Te-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="yzoamSTQ4k_LrmFpl3Te-1">
-          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        <mxCell id="yzoamSTQ4k_LrmFpl3Te-13" value="Unit price" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="yzoamSTQ4k_LrmFpl3Te-1">
+          <mxGeometry y="120" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yzoamSTQ4k_LrmFpl3Te-12" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="yzoamSTQ4k_LrmFpl3Te-1">
-          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        <mxCell id="yzoamSTQ4k_LrmFpl3Te-12" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Flight hours&amp;nbsp;&lt;/span&gt;number" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="yzoamSTQ4k_LrmFpl3Te-1">
+          <mxGeometry y="150" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yzoamSTQ4k_LrmFpl3Te-5" value="Trường hợp 1" style="whiteSpace=wrap;html=1;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="-30" width="120" height="60" as="geometry" />
+          <mxGeometry x="-330" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yzoamSTQ4k_LrmFpl3Te-6" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;CUSTOMER&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="50" width="140" height="120" as="geometry" />
+          <mxGeometry x="-130" y="60" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="yzoamSTQ4k_LrmFpl3Te-7" value="CUSTOMER ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="yzoamSTQ4k_LrmFpl3Te-6">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        <mxCell id="yzoamSTQ4k_LrmFpl3Te-7" value="CUSTOMER ID(PK)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="yzoamSTQ4k_LrmFpl3Te-6">
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yzoamSTQ4k_LrmFpl3Te-8" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="yzoamSTQ4k_LrmFpl3Te-6">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
+          <mxGeometry y="60" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yzoamSTQ4k_LrmFpl3Te-9" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="yzoamSTQ4k_LrmFpl3Te-6">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
+          <mxGeometry y="90" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
