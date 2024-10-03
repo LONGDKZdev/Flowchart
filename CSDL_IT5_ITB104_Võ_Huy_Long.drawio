@@ -880,7 +880,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="O2cNOcjsc8n_PMXDgFDO" name="Bài 4">
-    <mxGraphModel dx="1329" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1443" dy="1364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -950,8 +950,8 @@
         <mxCell id="yzoamSTQ4k_LrmFpl3Te-22" value="Khách hàng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-60" y="30" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yzoamSTQ4k_LrmFpl3Te-24" value="Flying Unit" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;rounded=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="260" width="140" height="90" as="geometry" />
+        <mxCell id="yzoamSTQ4k_LrmFpl3Te-24" value="FLYINGUNIT" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="-110" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yzoamSTQ4k_LrmFpl3Te-25" value="&lt;b&gt;&lt;u&gt;Unit ID (PK)&lt;/u&gt;&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="yzoamSTQ4k_LrmFpl3Te-24">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -960,19 +960,25 @@
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yzoamSTQ4k_LrmFpl3Te-28" value="Đơn vị bay" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=16;shadow=0;rounded=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="230" width="100" height="30" as="geometry" />
+          <mxGeometry x="-160" y="-140" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yzoamSTQ4k_LrmFpl3Te-29" value="Pilot" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=0;rounded=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="440" width="140" height="90" as="geometry" />
+        <mxCell id="yzoamSTQ4k_LrmFpl3Te-29" value="PILOT" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=0;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="410" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="yzoamSTQ4k_LrmFpl3Te-30" value="&lt;b&gt;&lt;u&gt;Pilot ID (PK)&lt;/u&gt;&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="yzoamSTQ4k_LrmFpl3Te-29">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yzoamSTQ4k_LrmFpl3Te-31" value="Unit Name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="yzoamSTQ4k_LrmFpl3Te-29">
+        <mxCell id="yzoamSTQ4k_LrmFpl3Te-31" value="Pilot Name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="yzoamSTQ4k_LrmFpl3Te-29">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="yzoamSTQ4k_LrmFpl3Te-34" value="Date of birth" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="yzoamSTQ4k_LrmFpl3Te-29">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yzoamSTQ4k_LrmFpl3Te-33" value="Gender" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="yzoamSTQ4k_LrmFpl3Te-29">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="yzoamSTQ4k_LrmFpl3Te-32" value="Phi công&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=16;shadow=0;rounded=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="-85" y="410" width="90" height="30" as="geometry" />
+          <mxGeometry x="-45" y="380" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
